@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/88645471/213471635-e5d7e10b-551a-4ef9-b473-b0aa6183bf61.png)
 
 # Overview
-This is a python script that combines all six daily mix playlists created by spotify and merges then into a single playlist. It can be automated using PythonAnywhere (www.pythonanywhere.com) or the Windows Task Scheduler to run every day at a specific time.
+This is a python script that combines all six daily mix playlists created by Spotify and merges then into a single playlist. It can be automated using PythonAnywhere (www.pythonanywhere.com) or the Windows Task Scheduler to run every day at a specific time.
 
 # Installation
 Clone the repository by `git clone https://github.com/dcsp3/daily-mix-spotify.git`
